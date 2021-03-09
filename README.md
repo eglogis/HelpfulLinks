@@ -11,6 +11,7 @@ Feel free to add new sections to this document. In this document there will not 
 
 ## iOS
 - **From Apple’s Mapkit to GoogleMaps -> [link](https://medium.com/@robdeans/from-apples-mapkit-to-googlemaps-2982d830233a)**
+- **Building Adaptive Layout with Size Classes -> [link](https://medium.com/flawless-app-stories/building-adaptive-layout-with-size-classes-programmatically-40db42950c89)**
 
 ## Web
 
