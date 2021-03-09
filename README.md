@@ -10,6 +10,7 @@ Feel free to add new sections to this document. In this document there will not 
 ## Android
 
 ## iOS
+- **From Apple’s Mapkit to GoogleMaps -> [link](https://medium.com/@robdeans/from-apples-mapkit-to-googlemaps-2982d830233a)**
 
 ## Web
 
