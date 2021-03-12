@@ -16,7 +16,7 @@ Feel free to add new sections to this document. In this document there will not 
 - **Building Adaptive Layout with Size Classes -> [link](https://medium.com/flawless-app-stories/building-adaptive-layout-with-size-classes-programmatically-40db42950c89)**
 - **Date formatter info for Swift -> [link](https://nsdateformatter.com/)**
 
-## Web
+## Web ![alt text](https://github.com/eglogis/HelpfulLinks/blob/main/icons/html.png)
 
 ## Design
 - **The iOS Design Guidelines -> [link](https://ivomynttinen.com/blog/ios-design-guidelines)**
