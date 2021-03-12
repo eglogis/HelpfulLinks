@@ -21,6 +21,7 @@ Feel free to add new sections to this document. In this document there will not 
 ## Design
 - **The iOS Design Guidelines -> [link](https://ivomynttinen.com/blog/ios-design-guidelines)**
 - **Lottie animations -> [link](https://lottiefiles.com/)**
+- **Material design Guidelines -> [link](https://material.io/design)**
 
 ## Others
 - **Udemy cupons -> [link](https://cursosdev.com/coupons)**
