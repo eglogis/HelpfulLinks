@@ -18,7 +18,7 @@ Feel free to add new sections to this document. In this document there will not 
 
 ## Web ![alt text](https://github.com/eglogis/HelpfulLinks/blob/main/icons/html.png)
 
-## Design
+## Design ![alt text](https://github.com/eglogis/HelpfulLinks/blob/main/icons/design.png)
 - **The iOS Design Guidelines -> [link](https://ivomynttinen.com/blog/ios-design-guidelines)**
 - **Lottie animations -> [link](https://lottiefiles.com/)**
 - **Material design Guidelines -> [link](https://material.io/design)**
