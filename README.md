@@ -26,7 +26,7 @@ Feel free to add new sections to this document. In this document there will not 
 ## Books ![alt text](https://github.com/eglogis/HelpfulLinks/blob/main/icons/book.png)
 - **Free library with many books of different topis. -> [link](https://openlibra.com/es/)**
 
-## Git
+## Git ![alt text](https://github.com/eglogis/HelpfulLinks/blob/main/icons/git.png)
 - **Simple guide to start with git. -> [link](http://rogerdudler.github.io/git-guide/index.es.html)**
 - **Web to find the right git commands you need -> [link](https://gitexplorer.com/)**
 - **Learn about git branch commands -> [link](https://learngitbranching.js.org/?locale=es_AR)**
