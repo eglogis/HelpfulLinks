@@ -37,4 +37,5 @@ Feel free to add new sections to this document. In this document there will not 
 - **iOS and Android tutorial and helper -> [link](https://www.raywenderlich.com/)**
 - **Markdown online editor -> [link](https://www.raywenderlich.com/)**
 - **10 Extraordinary GitHub Repos for All Developers -> [link](https://dev.to/simonholdorf/10-extraordinary-github-repos-for-all-developers-2ag8)**
+- **Convert JSON into gorgeous, typesafe code in any language -> [link](https://app.quicktype.io/)**
 
