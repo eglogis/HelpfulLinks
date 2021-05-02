@@ -31,7 +31,7 @@ Feel free to add new sections to this document. In this document there will not 
 - **Web to find the right git commands you need -> [link](https://gitexplorer.com/)**
 - **Learn about git branch commands -> [link](https://learngitbranching.js.org/?locale=es_AR)**
 - **Learn about git concepts -> [link](https://onlywei.github.io/explain-git-with-d3/)**
-- **Push notificaions server for tests -> [link](https://github.com/onmyway133/PushNotifications)
+- **Push notificaions server for tests -> [link](https://github.com/onmyway133/PushNotifications)**
 
 ## Others ![alt text](https://github.com/eglogis/HelpfulLinks/blob/main/icons/other.png)
 - **Udemy cupons -> [link](https://cursosdev.com/coupons)**
