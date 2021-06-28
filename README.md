@@ -15,7 +15,7 @@ Feel free to add new sections to this document. In this document there will not 
 - **From Apple’s Mapkit to GoogleMaps -> [link](https://medium.com/@robdeans/from-apples-mapkit-to-googlemaps-2982d830233a)**
 - **Building Adaptive Layout with Size Classes -> [link](https://medium.com/flawless-app-stories/building-adaptive-layout-with-size-classes-programmatically-40db42950c89)**
 - **Date formatter info for Swift -> [link](https://nsdateformatter.com/)**
-- **String Manipulation -> [link](https://useyourloaf.com/blog/swift-string-cheat-sheet/)
+- **String Manipulation -> [link](https://useyourloaf.com/blog/swift-string-cheat-sheet/)**
 
 ## Web ![alt text](https://github.com/eglogis/HelpfulLinks/blob/main/icons/html.png)
 
