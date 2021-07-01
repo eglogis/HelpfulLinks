@@ -34,10 +34,14 @@ Feel free to add new sections to this document. In this document there will not 
 - **Learn about git concepts -> [link](https://onlywei.github.io/explain-git-with-d3/)**
 - **Push notificaions server for tests -> [link](https://github.com/onmyway133/PushNotifications)**
 
+## Flutter ![alt text](https://github.com/eglogis/HelpfulLinks/blob/main/icons/other.png)
+
+
 ## Others ![alt text](https://github.com/eglogis/HelpfulLinks/blob/main/icons/other.png)
 - **Udemy cupons -> [link](https://cursosdev.com/coupons)**
 - **iOS and Android tutorial and helper -> [link](https://www.raywenderlich.com/)**
 - **Markdown online editor -> [link](https://www.raywenderlich.com/)**
 - **10 Extraordinary GitHub Repos for All Developers -> [link](https://dev.to/simonholdorf/10-extraordinary-github-repos-for-all-developers-2ag8)**
 - **Convert JSON into gorgeous, typesafe code in any language -> [link](https://app.quicktype.io/)**
+- **Free online diagram software for making flowcharts ->[link](https://app.diagrams.net/)** 
 
